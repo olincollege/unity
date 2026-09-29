@@ -8,7 +8,7 @@ Olin has access to Unity, a supercomputer that is part of the [Massachusetts Hig
 To use `pi_super_olin_edu` you must complete a training with a Supercomputer Assistant.
 
 ### Sign up 
-Please sign up for a training [here](https://docs.google.com/spreadsheets/d/1BDAYLLliPY7XcvwpESSEaG8keeRxzO_Yd16OdMRDPFE/edit?gid=0#gid=0). 
+Please sign up for a training [here](https://olincollege-my.sharepoint.com/:x:/g/personal/dshah2_olin_edu/IQAyHgrs8j4fSr5f3_TGoGK-Afc6O-zI5ymA9A6YvXBabZQ?e=s4HAbh). You will need to be logged in with your Olin ID. 
 
 
 ## Office Hours
