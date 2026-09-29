@@ -1,6 +1,6 @@
 # Welcome to Unity!
 
-Olin has access to Unity, a supercomputer that is part of the [Massachusetts High Perfomance Computing Cluster](https://mghpcc.org/).
+Olin has access to Unity, a supercomputer that is part of the [Massachusetts Green High Performance Computing Cluster](https://mghpcc.org/).
 
 
 ## Trainings
@@ -18,7 +18,7 @@ Evi will have regular office hours after trainings are complete.
 ## Things to know before a training!
 If you've never used a command line to control a computer, welcome! We are so glad that you are learning new things with us. Please familiarize yourself with the command line following [this tutorial](https://labex.io/linuxjourney/courses/command-line).
 
-All users, regardless of experince, must fill out the [introductory linux worksheet](./linux-worksheet.md) before a training.
+All users, regardless of experience, must fill out the [introductory Linux worksheet](./linux-worksheet.md) before a training.
 
 ## What types of projects can I do on Unity?
 Unity is great for anything that is tricky to run on your laptop. Use it for running 
@@ -64,7 +64,7 @@ If you have any questions about this, please reach out to Prof. Carrie Nugent.
 1. Do not store things on Unity that you're not using. If you're done with a project, move your files onto your personal computer and delete the Unity files. If your files are not used for a significant amount of time, we may delete them to create space.
 2.  **Unity does not have backups.** Make sure you have your own backups of vital files! Don't let another user's mistake mess up your project.
 3. Don't touch what isn't yours. Create your own directory to work in, and don't go in other people's directories.
-4. Don't use excessive resoures. Roughly, most projects on `pi_super_olin_edu` should be less than 100 GB and not use more than 25 cores at a time. If your project needs more resources, that's great! We will work with you. Please reach out to a supercomputer assistant for guidance. 
+4. Don't use excessive resources. Roughly, most projects on `pi_super_olin_edu` should be less than 100 GB and not use more than 25 cores at a time. If your project needs more resources, that's great! We will work with you. Please reach out to a supercomputer assistant for guidance. 
 
 
 ## One backup is none, two backups are one
@@ -72,9 +72,9 @@ Always back up your files to your own computer! There are no automatic backups o
 
 
 ## How to protect your files
-The default on `pi_super_olin_edu` is that everyone can see and even delete everyone else's files. You can protect your files from accidental deletion by changing the permissions of the files [following this tutoria](https://labex.io/linuxjourney/courses/permissions). Don't hesitate to reach out for help if you're confused about this!
+The default on `pi_super_olin_edu` is that everyone can see and even delete everyone else's files. You can protect your files from accidental deletion by changing the permissions of the files [following this tutorial](https://labex.io/linuxjourney/courses/permissions). Don't hesitate to reach out for help if you're confused about this!
 
-Changing the permisisons on your files will not prevent Carrie or the Supercomputer Assistants from reading or deleting your files. We try hard not to delete files, but will (for example) if your files are preventing others from using the resource, or if you do not seem to be actively using the files for a long period of time. 
+Changing the permissions on your files will not prevent Carrie or the Supercomputer Assistants from reading or deleting your files. We try hard not to delete files but will (for example) if your files are preventing others from using the resource, or if you do not seem to be actively using the files for a long period of time. 
 
 
 
@@ -84,7 +84,7 @@ Changing the permisisons on your files will not prevent Carrie or the Supercompu
 
 There are so many ways to ask for help!
 
-1. Ask on the `#supercomputer` channel of the Shop slack. Ask here for anything Olin-specific! Also a great, freindly place to ask general questions or get help if you're stuck. 
+1. Ask on the `#supercomputer` channel of the Shop slack. Ask here for anything Olin-specific! Also a great, friendly place to ask general questions or get help if you're stuck. 
 2. Attend Supercomputer Assistant office hours!
 3. For specific technical questions, join the Unity slack and ask on their `#help-desk` channel: https://account.unityhpc.org/community-slack. Feel free to ask a question on the Olin `#supercomputer` slack first; we'll answer it if we can and direct you to `#help-desk` if we don't know the answer. 
 4. Check out the Unity documentation (links below!)
@@ -93,7 +93,7 @@ There are so many ways to ask for help!
 
 **Helpful Documentation**
 - Table of contents: https://docs.Unity.rc.umass.edu/documentation/toc/
-- Quickstart: https://docs.Unity.rc.umass.edu/documentation/get-started/quickstart/
+- Quick start: https://docs.Unity.rc.umass.edu/documentation/get-started/quickstart/
 - OnDemand: https://docs.Unity.rc.umass.edu/documentation/connecting/ondemand/
 - SSH: https://docs.Unity.rc.umass.edu/documentation/connecting/ssh/
 - Jobs: https://docs.Unity.rc.umass.edu/documentation/jobs/
