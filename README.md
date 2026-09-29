@@ -8,8 +8,7 @@ Olin has access to Unity, a supercomputer that is part of the [Massachusetts Hig
 To use `pi_super_olin_edu` you must complete a training with a Supercomputer Assistant.
 
 ### Sign up 
-Please sign up for a training here: 
-https://docs.google.com/spreadsheets/d/1BDAYLLliPY7XcvwpESSEaG8keeRxzO_Yd16OdMRDPFE/edit?gid=0#gid=0
+Please sign up for a training [here](https://docs.google.com/spreadsheets/d/1BDAYLLliPY7XcvwpESSEaG8keeRxzO_Yd16OdMRDPFE/edit?gid=0#gid=0). 
 
 
 ## Office Hours
@@ -21,16 +20,16 @@ If you've never used a command line to control a computer, welcome! We are so gl
 
 All users, regardless of experince, must fill out the [introductory linux worksheet](./linux-worksheet.md) before a training.
 
-## What types of projects can I do on UNITY?
-UNITY is great for anything that is tricky to run on your laptop. Use it for running 
+## What types of projects can I do on Unity?
+Unity is great for anything that is tricky to run on your laptop. Use it for running 
 - many instances of the same code (for example, 200 simulations with different parameters)
 - tasks that take a long time (ex: 40 hours of API queries)
 - projects that require heavy GPU processing (ex: [this project](https://mghpcc.org/olin-faculty-students-using-high-performance-computers-to-solve-big-challenges/)).
 - live dashboards and interactive pages (ex: [Shiny](https://shiny.posit.co/py/gallery/))
 
-UNITY is for open data projects! UNITY cannot be used for projects involving personally identifiable information, personal health information, controlled unclassified information, payment card information, FERPA-controlled information, etc. If we learn you have placed any sensitive data on UNITY, we will revoke your user account.
+Unity is for open data projects! Unity cannot be used for projects involving personally identifiable information, personal health information, controlled unclassified information, payment card information, FERPA-controlled information, etc. If we learn you have placed any sensitive data on Unity, we will revoke your user account.
 
-Make sure everything you do aligns with Unity’s terms of service: https://docs.unity.rc.umass.edu/about/terms-of-service/
+Make sure everything you do aligns with Unity’s terms of service: https://docs.Unity.rc.umass.edu/about/terms-of-service/
 
 
 
@@ -93,16 +92,16 @@ There are so many ways to ask for help!
 
 
 **Helpful Documentation**
-- Table of contents: https://docs.unity.rc.umass.edu/documentation/toc/
-- Quickstart: https://docs.unity.rc.umass.edu/documentation/get-started/quickstart/
-- OnDemand: https://docs.unity.rc.umass.edu/documentation/connecting/ondemand/
-- SSH: https://docs.unity.rc.umass.edu/documentation/connecting/ssh/
-- Jobs: https://docs.unity.rc.umass.edu/documentation/jobs/
-- Git: https://docs.unity.rc.umass.edu/documentation/get-started/git-guide/
-- Terms of service: https://docs.unity.rc.umass.edu/about/terms-of-service/
-- Partition list: https://docs.unity.rc.umass.edu/documentation/cluster_specs/partitions/
-- Storage & quotas: https://docs.unity.rc.umass.edu/documentation/cluster_specs/storage/
-- Scratch workspaces: https://docs.unity.rc.umass.edu/documentation/managing-files/hpc-workspace/
-- Python venv: https://docs.unity.rc.umass.edu/documentation/software/venv/
-- JupyterLab OnDemand: https://docs.unity.rc.umass.edu/documentation/software/ondemand/jupyterlab-ondemand/
-- Unity helper scripts (`unity-slurm-*`): https://docs.unity.rc.umass.edu/documentation/jobs/helper_scripts/
+- Table of contents: https://docs.Unity.rc.umass.edu/documentation/toc/
+- Quickstart: https://docs.Unity.rc.umass.edu/documentation/get-started/quickstart/
+- OnDemand: https://docs.Unity.rc.umass.edu/documentation/connecting/ondemand/
+- SSH: https://docs.Unity.rc.umass.edu/documentation/connecting/ssh/
+- Jobs: https://docs.Unity.rc.umass.edu/documentation/jobs/
+- Git: https://docs.Unity.rc.umass.edu/documentation/get-started/git-guide/
+- Terms of service: https://docs.Unity.rc.umass.edu/about/terms-of-service/
+- Partition list: https://docs.Unity.rc.umass.edu/documentation/cluster_specs/partitions/
+- Storage & quotas: https://docs.Unity.rc.umass.edu/documentation/cluster_specs/storage/
+- Scratch workspaces: https://docs.Unity.rc.umass.edu/documentation/managing-files/hpc-workspace/
+- Python venv: https://docs.Unity.rc.umass.edu/documentation/software/venv/
+- JupyterLab OnDemand: https://docs.Unity.rc.umass.edu/documentation/software/ondemand/jupyterlab-ondemand/
+- Unity helper scripts (`Unity-slurm-*`): https://docs.Unity.rc.umass.edu/documentation/jobs/helper_scripts/
