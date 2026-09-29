@@ -6,7 +6,7 @@ Please download this file and fill it out before your training. For all question
 1. How can you find the absolute path of the directory you are currently in?
 2. How can you list the current directory's contents?
 3. How can you navigate into a directory named `hello-world` that is in `/work/pi_super_olin_edu`? (directory tree provided below)
-![[linux_dir_tree.png]]
+![linux directory tree](linux_dir_tree.png)
 4. How can you make a new directory in the current directory?
 5. How can you remove a directory named `foo` in the current directory?
 6. How can you move a file named `log1.log` into a directory at `/home/user`?
