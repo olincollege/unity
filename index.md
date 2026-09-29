@@ -8,9 +8,13 @@ Olin has access to Unity, a supercomputer that is part of the [Massachusetts Hig
 To use `pi_super_olin_edu` you must complete a training with a Supercomputer Assistant.
 
 ### Sign up 
-Please sign upf or a training here: 
+Please sign up for a training here: 
+https://docs.google.com/spreadsheets/d/1BDAYLLliPY7XcvwpESSEaG8keeRxzO_Yd16OdMRDPFE/edit?gid=0#gid=0
+
 
 ## Office Hours
+Dhvan has office hours Wednesday 1-2 in the upper level of the library.
+Evi will have regular office hours after trainings are complete.
 
 
 ## Things to know before a training!
