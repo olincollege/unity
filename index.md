@@ -53,7 +53,7 @@ If you're unsure whether your data counts, **ask before you upload, not after** 
 
 Uploading personally identifiable information puts Olin at legal risk! In order for Olin to support this Unity account and allow everyone to use this resource, we need to ensure that this rule is followed. If it is not followed, we will revoke your access to Unity. 
 
-If you have any questions about this, please reach out to Carrie (cnugent@olin.edu).
+If you have any questions about this, please reach out to Prof. Carrie Nugent.
 
 ### How to be a good neighbor
 
@@ -84,7 +84,7 @@ There are so many ways to ask for help!
 2. Attend Supercomputer Assistant office hours!
 3. For specific technical questions, join the Unity slack and ask on their `#help-desk` channel: https://account.unityhpc.org/community-slack. Feel free to ask a question on the Olin `#supercomputer` slack first; we'll answer it if we can and direct you to `#help-desk` if we don't know the answer. 
 4. Check out the Unity documentation (links below!)
-5. Carrie Nugent is the faculty Supercomputer Liaison. Feel free to chat with her about PI (faculty/staff-level) accounts and specialized compute needs. cnugent@olin.edu 
+5. Carrie Nugent is the faculty Supercomputer Liaison. Feel free to chat with her about PI (faculty/staff-level) accounts and specialized compute needs.
 
 
 **Helpful Documentation**
