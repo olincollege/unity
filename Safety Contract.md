@@ -11,7 +11,7 @@ Read this and sign at the bottom.
 **Nothing that identifies a person goes on this cluster.** That includes:
 
 - Names, emails, student ID numbers, addresses, phone numbers  
-- Grades, transcripts, assignment submissions, course rosters, anything about how a student is doing. This is FERPA data and Olin is legally bound to protect it.  
+- Grades, transcripts, course rosters, anything about how a student is doing. This is FERPA data and Olin is legally bound to protect it.  
 - Survey responses, interview recordings, interview transcripts  
 - Photos or video of people  
 - Health or medical information of any kind  
