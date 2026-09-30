@@ -12,15 +12,10 @@ Olin has access to Unity, a supercomputer that is part of the [Massachusetts Gre
 
 To use `pi_super_olin_edu` you must complete a training with a Supercomputer Assistant.
 
-### Sign up 
+## Sign up 
 Please sign up for a training [here](https://olincollege-my.sharepoint.com/:x:/g/personal/dshah2_olin_edu/IQAyHgrs8j4fSr5f3_TGoGK-Afc6O-zI5ymA9A6YvXBabZQ?e=s4HAbh). You will need to be logged in with your Olin ID. 
 
-
-## Office Hours
-Dhvan has office hours Wednesday 1-2 in the upper level of the library.
-Evi will have regular office hours after trainings are complete.
-
-## Things to know before a training!
+## Pre-training action items
 If you've never used a command line to control a computer, welcome! We are so glad that you are learning new things with us. Please familiarize yourself with the command line following [this tutorial](https://labex.io/linuxjourney/courses/command-line).
 
 All users, regardless of experience, must fill out the [introductory Linux worksheet](./linux-worksheet.md) before a training.
@@ -75,7 +70,7 @@ Changing the permissions on your files will not prevent Carrie or the Supercompu
 There are so many ways to ask for help!
 
 1. Ask on the `#supercomputer` channel of the Shop slack. Ask here for anything Olin-specific! Also a great, friendly place to ask general questions or get help if you're stuck. 
-2. Attend Supercomputer Assistant office hours!
+2. Attend Supercomputer Assistant office hours! Dhvan has office hours Wednesday 1-2 in the upper level of the library. Evi will have regular office hours after trainings are complete.
 3. For specific technical questions, join the Unity slack and ask on their `#help-desk` channel: https://account.unityhpc.org/community-slack. Feel free to ask a question on the Olin `#supercomputer` slack first; we'll answer it if we can and direct you to `#help-desk` if we don't know the answer. 
 4. Check out the Unity documentation (links below!)
 5. Carrie Nugent is the faculty Supercomputer Liaison. Feel free to chat with her about PI (faculty/staff-level) accounts and specialized compute needs.
