@@ -1,9 +1,14 @@
 # Welcome to Unity!
 
-Olin has access to Unity, a supercomputer that is part of the [Massachusetts Green High Performance Computing Cluster](https://mghpcc.org/).
+Olin has access to Unity, a supercomputer that is part of the [Massachusetts Green High Performance Computing Cluster](https://mghpcc.org/). This document will help you understand what you can and cannot do with Unity.
+
+<ol markdown="1">
+{:toc}
+</ol>
 
 
-## Trainings
+
+# Trainings
 
 To use `pi_super_olin_edu` you must complete a training with a Supercomputer Assistant.
 
@@ -20,6 +25,8 @@ If you've never used a command line to control a computer, welcome! We are so gl
 
 All users, regardless of experience, must fill out the [introductory Linux worksheet](./linux-worksheet.md) before a training.
 
+# Unity Do's and Don'ts
+
 ## What types of projects can I do on Unity?
 Unity is great for anything that is tricky to run on your laptop. Use it for running 
 - many instances of the same code (for example, 200 simulations with different parameters)
@@ -32,20 +39,13 @@ Unity is for open data projects! Unity cannot be used for projects involving per
 Make sure everything you do aligns with Unity’s terms of service: https://docs.Unity.rc.umass.edu/about/terms-of-service/
 
 
-
-
 ### Unity Guidelines
 
-We cover these points in the training. They are also here for your reference! 
-
-- **This is a shared machine and your neighbors are real people at Olin!** An idle GPU you're sitting on can mean someone else is waiting. A full disk means your classmates can't do their homework. An excessive CPU request means that a professor can't do their research. 
-- **Ask for what you need, not what you can get.** Over-requesting time, memory, or GPUs makes *you* wait longer in the queue and blocks other people. `seff [jobid]` after every job tells you what you actually used. You should never hesitate to request what you need. If you feel like your job is very big, please ask a supercomputer assistant for help! They can help you make it a more reasonable size while meeting your goals, and they can increase your usage limits if needed.
-- **Don't run work on the login node.** It's for editing, moving files, and submitting jobs. Heavy compute there slows the front door for everyone. Most people should work in `/work/`
-- **Don't hold resources you're not using.** Close interactive sessions when you walk away.
-- **Learning matters more than the result.** Expect to make mistakes! Jobs will die in four seconds. You'll typo a path and request 200GB for something that needs 2. That's normal; right-size it next time.
-- **No experience required, and no condescension tolerated** about anyone's code, tooling, or command-line comfort.
-- **We really like questions.** "Is this a reasonable thing to run?" is a great one, and much better asked before you submit than after.
-- **Report broken things.** Nodes fail and modules break. Post in channel `#supercomputer` on the Shop slack and report to Unity support instead of silently working around it.
+- **We want you to learn and explore.** Expect to make mistakes! Jobs will die in four seconds. You'll typo a path and request 200GB for something that needs 2. That's normal; you'll get it right next time.
+- **Be kind.** We are here to support one another! 
+- **Only request resources that you need.** Over-requesting time, memory, or GPUs makes you wait longer in the queue and blocks other people. `seff [jobid]` after every job tells you what you actually used. Never hesitate to request what you need, but don't monopolize the whole resource. If you feel like your job is very big, and you're worried you're using too much, ask a supercomputer assistant for help! They can help you make it a more reasonable size while meeting your goals, and they can increase your usage limits if needed.
+- **This is a shared machine and your neighbors are real people at Olin.** An idle GPU you're sitting on can mean someone else is waiting. A full disk means your classmates can't do their homework. An excessive CPU request means that a professor can't do their research. 
+- **Humans are the best part of supercomputing.** Don't hesitate to reach out to Carrie or the Supercomputer Assistants for help!
 
 ### Data policy — the one rule with a penalty
 
@@ -55,7 +55,7 @@ This means no survey data with names attached, no interview recordings or transc
 
 If you're unsure whether your data counts, **ask before you upload, not after** — deleting a file doesn't un-share it. 
 
-Uploading personally identifiable information puts Olin at legal risk! In order for Olin to support this Unity account and allow everyone to use this resource, we need to ensure that this rule is followed. If it is not followed, we will revoke your access to Unity. 
+Uploading personally identifiable information puts Olin at legal risk. In order for Olin to support this Unity account and allow everyone to use this resource, we need to ensure that this rule is followed. If it is not followed, we will revoke your access to Unity. 
 
 If you have any questions about this, please reach out to Prof. Carrie Nugent.
 
@@ -66,21 +66,17 @@ If you have any questions about this, please reach out to Prof. Carrie Nugent.
 3. Don't touch what isn't yours. Create your own directory to work in, and don't go in other people's directories.
 4. Don't use excessive resources. Roughly, most projects on `pi_super_olin_edu` should be less than 100 GB and not use more than 25 cores at a time. If your project needs more resources, that's great! We will work with you. Please reach out to a supercomputer assistant for guidance. 
 
-
-## One backup is none, two backups are one
+### One backup is none, two backups are one
 Always back up your files to your own computer! There are no automatic backups on Unity. We may be forced to delete extremely large files if our disk quota is exceeded. In addition, we may delete files that appear to be abandoned for long periods of time to free up space for active users.
 
 
-## How to protect your files
+### How to protect your files
 The default on `pi_super_olin_edu` is that everyone can see and even delete everyone else's files. You can protect your files from accidental deletion by changing the permissions of the files [following this tutorial](https://labex.io/linuxjourney/courses/permissions). Don't hesitate to reach out for help if you're confused about this!
 
 Changing the permissions on your files will not prevent Carrie or the Supercomputer Assistants from reading or deleting your files. We try hard not to delete files but will (for example) if your files are preventing others from using the resource, or if you do not seem to be actively using the files for a long period of time. 
 
 
-
-
-
-### Getting help
+# Getting help
 
 There are so many ways to ask for help!
 
