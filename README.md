@@ -1,4 +1,5 @@
 # Welcome to Unity!
+{: .no_toc .text-delta }
 
 Olin has access to Unity, a supercomputer that is part of the [Massachusetts Green High Performance Computing Cluster](https://mghpcc.org/). This document will help you understand what you can and cannot do with Unity.
 
