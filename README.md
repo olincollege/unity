@@ -79,19 +79,15 @@ Ask on the `#supercomputer` channel of the Shop slack. Ask here for anything Oli
 ## Helpful documentation
 Unity has great documentation! Here's a few links that answer frequently asked questions. 
 
-- Table of contents: https://docs.Unity.rc.umass.edu/documentation/toc/
-- Quick start: https://docs.Unity.rc.umass.edu/documentation/get-started/quickstart/
-- OnDemand: https://docs.Unity.rc.umass.edu/documentation/connecting/ondemand/
-- SSH: https://docs.Unity.rc.umass.edu/documentation/connecting/ssh/
-- Jobs: https://docs.Unity.rc.umass.edu/documentation/jobs/
-- Git: https://docs.Unity.rc.umass.edu/documentation/get-started/git-guide/
-- Terms of service: https://docs.Unity.rc.umass.edu/about/terms-of-service/
-- Partition list: https://docs.Unity.rc.umass.edu/documentation/cluster_specs/partitions/
-- Storage & quotas: https://docs.Unity.rc.umass.edu/documentation/cluster_specs/storage/
-- Scratch workspaces: https://docs.Unity.rc.umass.edu/documentation/managing-files/hpc-workspace/
-- Python venv: https://docs.Unity.rc.umass.edu/documentation/software/venv/
-- JupyterLab OnDemand: https://docs.Unity.rc.umass.edu/documentation/software/ondemand/jupyterlab-ondemand/
-- Unity helper scripts (`Unity-slurm-*`): https://docs.Unity.rc.umass.edu/documentation/jobs/helper_scripts/
+- [Quick start](https://docs.Unity.rc.umass.edu/documentation/get-started/quickstart/)
+- [OnDemand](https://docs.Unity.rc.umass.edu/documentation/connecting/ondemand/)
+- [SSH](https://docs.Unity.rc.umass.edu/documentation/connecting/ssh/)
+- [Running things ("Jobs")](https://docs.Unity.rc.umass.edu/documentation/jobs/)
+- [Using Git on Unity](https://docs.Unity.rc.umass.edu/documentation/get-started/git-guide/)
+- [Scratch workspaces](https://docs.Unity.rc.umass.edu/documentation/managing-files/hpc-workspace/)
+- [Python virtual environments](https://docs.Unity.rc.umass.edu/documentation/software/venv/)
+- [JupyterLab OnDemand](https://docs.Unity.rc.umass.edu/documentation/software/ondemand/jupyterlab-ondemand/)
+- [Unity helper scripts (`Unity-slurm-*`)](https://docs.Unity.rc.umass.edu/documentation/jobs/helper_scripts/)
 
 ## More ways to get help!
 
