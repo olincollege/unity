@@ -1,4 +1,4 @@
-# Safety Contract
+# 2. Safety Contract
 
 UNITY is a shared research cluster. UMass runs it, not Olin, and we share it with thousands of researchers at other schools. It has a password on it and that's about it. **It is not a secure system.** Olin is only allowed to put open data on it, and our whole arrangement with UMass depends on us holding to that.
 
