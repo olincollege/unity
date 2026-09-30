@@ -1,4 +1,4 @@
-# 0. Welcome to Unity!
+# Welcome to Unity!
 
 Olin has access to Unity, a supercomputer that is part of the [Massachusetts Green High Performance Computing Cluster](https://mghpcc.org/). This document will help you understand what you can and cannot do with Unity.
 
@@ -69,14 +69,16 @@ Changing the permissions on your files will not prevent Carrie or the Supercompu
 
 There are so many ways to ask for help!
 
-1. Ask on the `#supercomputer` channel of the Shop slack. Ask here for anything Olin-specific! Also a great, friendly place to ask general questions or get help if you're stuck. 
-2. Attend Supercomputer Assistant office hours! Dhvan has office hours Wednesday 1-2 in the upper level of the library. Evi will have regular office hours after trainings are complete.
-3. For specific technical questions, join the Unity slack and ask on their `#help-desk` channel: https://account.unityhpc.org/community-slack. Feel free to ask a question on the Olin `#supercomputer` slack first; we'll answer it if we can and direct you to `#help-desk` if we don't know the answer. 
-4. Check out the Unity documentation (links below!)
-5. Carrie Nugent is the faculty Supercomputer Liaison. Feel free to chat with her about PI (faculty/staff-level) accounts and specialized compute needs.
+## Office Hours
+Attend Supercomputer Assistant office hours! Dhvan has office hours Wednesday 1-2 in the upper level of the library. Evi will have regular office hours after trainings are complete.
 
+## Olin's supercomputer Slack 
 
-**Helpful Documentation**
+Ask on the `#supercomputer` channel of the Shop slack. Ask here for anything Olin-specific! Also a great, friendly place to ask general questions or get help if you're stuck. 
+
+## Helpful documentation
+Unity has great documentation! Here's a few links that answer frequently asked questions. 
+
 - Table of contents: https://docs.Unity.rc.umass.edu/documentation/toc/
 - Quick start: https://docs.Unity.rc.umass.edu/documentation/get-started/quickstart/
 - OnDemand: https://docs.Unity.rc.umass.edu/documentation/connecting/ondemand/
@@ -90,3 +92,9 @@ There are so many ways to ask for help!
 - Python venv: https://docs.Unity.rc.umass.edu/documentation/software/venv/
 - JupyterLab OnDemand: https://docs.Unity.rc.umass.edu/documentation/software/ondemand/jupyterlab-ondemand/
 - Unity helper scripts (`Unity-slurm-*`): https://docs.Unity.rc.umass.edu/documentation/jobs/helper_scripts/
+
+## More ways to get help!
+
+For specific technical questions, join the Unity slack and ask on their `#help-desk` channel: https://account.unityhpc.org/community-slack. Feel free to ask a question on the Olin `#supercomputer` slack first; we'll answer it if we can and direct you to `#help-desk` if we don't know the answer. 
+
+Carrie Nugent is the faculty Supercomputer Liaison. Feel free to chat with her about PI (faculty/staff-level) accounts and specialized compute needs.

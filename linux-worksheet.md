@@ -1,4 +1,4 @@
-# 1. Linux Worksheet
+# Linux Worksheet
 suggested reading: https://labex.io/linuxjourney/courses/command-line
 
 Please download this file and fill it out before your training. For all questions please answer with a full command, including arguments.
