@@ -33,6 +33,7 @@ Unity is great for anything that is tricky to run on your laptop. Use it for run
 Unity is for open data projects! Unity cannot be used for projects involving personally identifiable information, personal health information, controlled unclassified information, payment card information, FERPA-controlled information, etc. If we learn you have placed any sensitive data on Unity, we will revoke your user account.
 
 Make sure everything you do aligns with Unity’s terms of service: https://docs.Unity.rc.umass.edu/about/terms-of-service/
+This includes no web scraping!
 
 ## General Guidelines
 
